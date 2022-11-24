@@ -1,0 +1,5 @@
+jupyterlab
+notebook
+numpy 
+matplotlib
+brian2
